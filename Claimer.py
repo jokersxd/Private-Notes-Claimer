@@ -1,6 +1,5 @@
 from colorama import Fore, init, Style
 from discord.ext import commands
-import pyPrivnote
 import requests
 import discord
 import ctypes
